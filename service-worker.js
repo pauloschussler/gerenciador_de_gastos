@@ -11,7 +11,7 @@ var filesToCache = [
   `${HOST}/imagens/edit.png`,
   `${HOST}/imagens/remove.png`,
   `${HOST}/app.css`,
-  `${HOST}/bulma.css`,
+  `${HOST}/lib/bulma.css`,
   `${HOST}/index.html`,
   `${HOST}/store.js`,
   `${HOST}/todo_e6.js`,
