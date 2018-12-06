@@ -1,4 +1,4 @@
-const HOST='https://pjs07.github.io/gerenciador_de_gastos'
+const HOST='https://pjs07.github.io/gerenciador_de_gastos/'
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker

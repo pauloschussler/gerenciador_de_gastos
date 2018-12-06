@@ -1,6 +1,6 @@
 {
-  "short_name": "Gerenciador de gastos",
-  "name": "Gerenciador de gastos",
+  "short_name": "gerenciador_de_gastos",
+  "name": "gerenciado_de_gastos",
   "icons": [
     {
       "src": "imagens/edit.png",
